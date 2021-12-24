@@ -1,25 +1,27 @@
 {
   "files": {
-    "main.css": "/expenseTracker/static/css/main.537ad3bf.chunk.css",
-    "main.js": "/expenseTracker/static/js/main.2ff04524.chunk.js",
-    "main.js.map": "/expenseTracker/static/js/main.2ff04524.chunk.js.map",
-    "runtime-main.js": "/expenseTracker/static/js/runtime-main.b25db8f9.js",
-    "runtime-main.js.map": "/expenseTracker/static/js/runtime-main.b25db8f9.js.map",
-    "static/css/2.66545776.chunk.css": "/expenseTracker/static/css/2.66545776.chunk.css",
-    "static/js/2.48367b6c.chunk.js": "/expenseTracker/static/js/2.48367b6c.chunk.js",
-    "static/js/2.48367b6c.chunk.js.map": "/expenseTracker/static/js/2.48367b6c.chunk.js.map",
-    "static/js/3.3d354e3d.chunk.js": "/expenseTracker/static/js/3.3d354e3d.chunk.js",
-    "static/js/3.3d354e3d.chunk.js.map": "/expenseTracker/static/js/3.3d354e3d.chunk.js.map",
+    "main.css": "/expenseTracker/static/css/main.abe99986.chunk.css",
+    "main.js": "/expenseTracker/static/js/main.dbe0c42c.chunk.js",
+    "main.js.map": "/expenseTracker/static/js/main.dbe0c42c.chunk.js.map",
+    "runtime-main.js": "/expenseTracker/static/js/runtime-main.ee79fee3.js",
+    "runtime-main.js.map": "/expenseTracker/static/js/runtime-main.ee79fee3.js.map",
+    "static/css/2.ff6f6cee.chunk.css": "/expenseTracker/static/css/2.ff6f6cee.chunk.css",
+    "static/js/2.58ed022f.chunk.js": "/expenseTracker/static/js/2.58ed022f.chunk.js",
+    "static/js/2.58ed022f.chunk.js.map": "/expenseTracker/static/js/2.58ed022f.chunk.js.map",
+    "static/js/3.57ec2844.chunk.js": "/expenseTracker/static/js/3.57ec2844.chunk.js",
+    "static/js/3.57ec2844.chunk.js.map": "/expenseTracker/static/js/3.57ec2844.chunk.js.map",
     "index.html": "/expenseTracker/index.html",
-    "static/css/2.66545776.chunk.css.map": "/expenseTracker/static/css/2.66545776.chunk.css.map",
-    "static/css/main.537ad3bf.chunk.css.map": "/expenseTracker/static/css/main.537ad3bf.chunk.css.map",
-    "static/js/2.48367b6c.chunk.js.LICENSE.txt": "/expenseTracker/static/js/2.48367b6c.chunk.js.LICENSE.txt"
+    "static/css/2.ff6f6cee.chunk.css.map": "/expenseTracker/static/css/2.ff6f6cee.chunk.css.map",
+    "static/css/main.abe99986.chunk.css.map": "/expenseTracker/static/css/main.abe99986.chunk.css.map",
+    "static/js/2.58ed022f.chunk.js.LICENSE.txt": "/expenseTracker/static/js/2.58ed022f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/expenseTracker/static/media/bg.bddea222.jpg",
+    "static/media/style.css": "/expenseTracker/static/media/bg2.1408f991.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b25db8f9.js",
-    "static/css/2.66545776.chunk.css",
-    "static/js/2.48367b6c.chunk.js",
-    "static/css/main.537ad3bf.chunk.css",
-    "static/js/main.2ff04524.chunk.js"
+    "static/js/runtime-main.ee79fee3.js",
+    "static/css/2.ff6f6cee.chunk.css",
+    "static/js/2.58ed022f.chunk.js",
+    "static/css/main.abe99986.chunk.css",
+    "static/js/main.dbe0c42c.chunk.js"
   ]
 }
